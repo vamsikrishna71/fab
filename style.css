@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
+
+/*                            Saas Template             */
+
+
+/*                              Global Classes                           */
+
+button button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+/*                       Typography Classes                                 */
+
+.font-baloo {
+    font-family: "Baloo Thambi 2", cursive;
+}
+
+.font-raleway {
+    font-family: "Raleway", cursive;
+}
+
+.font-rubik {
+    font-family: "Rubik", cursive;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+
+/*                            Color Classes                             */
+
+.color-black {
+    color: #222222;
+}
+
+.color-black-bg {
+    background: #222222;
+}
+
+.color-pink {
+    color: #e38ea5;
+}
+
+.color-pink-bg {
+    background: #e38ea5;
+}
+
+.color-gray {
+    color: #666666;
+}
+
+.color-gray-bg {
+    background: #666666;
+}
+
+
+/*# sourceMappingURL=style.css.map */
+
+
+/* Custom css */
+
+.slider-content {
+    position: absolute;
+}
+
+.slider-content .sub-title {
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.slider-content .main-title {
+    font-size: 62px;
+}
+
+.slider-content-left {
+    float: left;
+    margin-top: -365px;
+}
